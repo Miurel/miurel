@@ -16,8 +16,6 @@ Miurel  Castellon</a></h1>
 
 - 🤝 I’m available for freelancing.
 
-- 🌱 I’m currently learning Swift && SwiftUI <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a>
-
 - 💬 Ask me about **Reactjs **
 
 - 📫 How to reach me **miurelsoza16@gmail.com**
